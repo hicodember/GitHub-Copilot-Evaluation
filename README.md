@@ -1,5 +1,5 @@
 # GitHub-Copilot-Evaluation
-This project presents a structured evaluation of GitHub Copilot as a production AI-assisted development toolfor a fictional enterprise client. A mid-sized software company in the healthcare and finance sectors. The evaluation covers code analysis, prompt engineering, debugging, code generation, and ethical risk assessment.
+This project presents a structured evaluation of GitHub Copilot as a production AI-assisted development tool.
 
 # CS 530 - AI Principles and Applications
 ### 9-1 Final Project: GitHub Copilot Evaluation
@@ -121,10 +121,7 @@ This project surfaces several ethical concerns relevant to enterprise deployment
 
 ## About the Author
 
-**Ember Foster** is the founder of [Codember LLC](https://codember.com), a Houston based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Codember LLC](https://img.shields.io/badge/Codember-LLC-informational?style=flat)](https://codember.com)
+**Ember Foster** is the founder of [Codember LLC]([https://codember.com])(https://www.linkedin.com/in/codember/), a Houston based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
 
 ---
 
