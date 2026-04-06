@@ -121,7 +121,9 @@ This project surfaces several ethical concerns relevant to enterprise deployment
 
 ## About the Author
 
-**Ember Foster** is the founder of [Codember LLC]([https://codember.com])(https://www.linkedin.com/in/codember/), a Houston based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
+**Ember Foster** is the founder of Codember LLC, a Houston-based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/codember/])
 
 ---
 
