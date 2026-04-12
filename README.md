@@ -119,12 +119,4 @@ This project surfaces several ethical concerns relevant to enterprise deployment
 
 ---
 
-## About the Author
-
-**Ember Foster** is the founder of Codember LLC, a Texas-based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
-
-[LinkedIn](https://www.linkedin.com/in/codember/)
-
----
-
 *This project was completed as part of the M.S. Computer Science program (2026). All AI interactions were conducted using Microsoft GitHub Copilot.*
